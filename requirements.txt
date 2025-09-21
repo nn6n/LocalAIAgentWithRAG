@@ -2,3 +2,4 @@ langchain
 langchain-ollama
 langchain-chroma
 pandas
+langchain-text-splitters>=0.3.9 # not directly required, pinned by Snyk to avoid a vulnerability
