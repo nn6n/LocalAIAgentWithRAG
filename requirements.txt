@@ -2,3 +2,4 @@ langchain
 langchain-ollama
 langchain-chroma
 pandas
+orjson>=3.11.6 # not directly required, pinned by Snyk to avoid a vulnerability
